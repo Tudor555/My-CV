@@ -68,7 +68,7 @@ body {
 
 /* Tech Skills Sidebar Styles */
 .tech-skills-section {
-    padding-left: 40px;
+    padding-left: 40px ;
     margin-top: 40px;
 }
 
@@ -91,7 +91,7 @@ body {
 }
 
 .soft-skills-section {
-    padding-left: 40px;
+    padding-left: 40px ;
     margin-top: 40px;
 }
 
@@ -193,25 +193,16 @@ body {
     line-height: normal;
 }
 
-.company-name {
+.work-name {
     font-size: 16px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
 }
 
-.company-info {
+.work-info {
     color: #5885f5;
     margin-left: 10px;
-}
-
-.company-time {
-    color: #A8A8A8;
-    font-size: 12px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-    margin-top: -10px;
 }
 
 .title-project-name {
@@ -222,7 +213,16 @@ body {
     margin-top: -15px;
 }
 
-.company-elements-list {
+.work-time {
+    color: #A8A8A8;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: -10px;
+}
+
+.work-elements-list {
     color: #595959;
     font-size: 14px;
     font-style: normal;
@@ -232,7 +232,7 @@ body {
     margin-top: -5px;
 }
 
-.company-container {
+.work-container {
     margin-top: -10px;
 }
 
